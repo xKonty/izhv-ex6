@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tayx.Graphy.Editor", "Tayx.Graphy.Editor.csproj", "{68F1152E-C89D-ED61-90BA-CF68C6210EE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tayx.Graphy", "Tayx.Graphy.csproj", "{FDDA7D57-2DD6-CE19-C5C5-6ECC3578B370}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{BC5DD095-FAF9-78B5-9AF0-E7288A1E7DDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68F1152E-C89D-ED61-90BA-CF68C6210EE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F1152E-C89D-ED61-90BA-CF68C6210EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F1152E-C89D-ED61-90BA-CF68C6210EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F1152E-C89D-ED61-90BA-CF68C6210EE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDDA7D57-2DD6-CE19-C5C5-6ECC3578B370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDDA7D57-2DD6-CE19-C5C5-6ECC3578B370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDDA7D57-2DD6-CE19-C5C5-6ECC3578B370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDDA7D57-2DD6-CE19-C5C5-6ECC3578B370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC5DD095-FAF9-78B5-9AF0-E7288A1E7DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5DD095-FAF9-78B5-9AF0-E7288A1E7DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5DD095-FAF9-78B5-9AF0-E7288A1E7DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5DD095-FAF9-78B5-9AF0-E7288A1E7DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
